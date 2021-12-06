@@ -16,6 +16,7 @@
     <h2>Index Page</h2>
     <p>Is this the real life, is this just fantasy?</p>
     <p>- Queen -</p>
+    <blockquote>Saya ganteng</blockquote>
     <a class="btn btn-info btn-block">Login</a>
   </div>
 </div>
