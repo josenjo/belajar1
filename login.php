@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>Stacked form</h2>
+  <h2>Login Form</h2>
   <form action="/action_login.php">
     <div class="form-group">
       <label for="email">Email:</label>
@@ -24,10 +24,10 @@
     </div>
     <div class="form-group form-check">
       <label class="form-check-label">
-        <input class="form-check-input" type="checkbox" name="remember"> Remember me
+        <input class="form-check-input" type="checkbox" name="remember"> Ingat Saya
       </label>
     </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
+    <button type="submit" class="btn btn-primary">Login</button>
   </form>
 </div>
 
