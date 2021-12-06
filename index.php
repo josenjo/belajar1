@@ -12,9 +12,8 @@
 <body>
 
 <div class="container">
-  <h2>Title</h2>	
   <p>Index Page</p>
-  <p>Lorem ipsum dolem amet, sirius homo genius</p>
+  <p>Is this the real life, is this just fantasy?</p>
 </div>
 
 </body>
