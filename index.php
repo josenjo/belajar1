@@ -16,7 +16,7 @@
     <p>Index Page</p>
     <p>Is this the real life, is this just fantasy?</p>
     <p>- Queen -</p>
-    <button class="btn btn-info">Login</button>
+    <a href="#" class="btn btn-info">Login</a>
   </div>
 </div>
 
