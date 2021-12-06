@@ -14,6 +14,7 @@
 <div class="container">
   <h2>Title</h2>	
   <p>Index Page</p>
+  <p>Lorem ipsum dolem amet, sirius homo genius</p>
 </div>
 
 </body>
