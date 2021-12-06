@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <p>Ini halaman about</p>
+  <h2>About Page</h2>
 </div>
 
 </body>
