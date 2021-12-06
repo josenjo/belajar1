@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <h2>Stacked form</h2>
+  <h2>Form Login</h2>
   <form action="/action_login.php">
     <div class="form-group">
       <label for="email">Email:</label>
