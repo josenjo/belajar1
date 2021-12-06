@@ -12,6 +12,7 @@
 <body>
 
 <div class="container">
+  <h2>Title</h2>	
   <p>Index Page</p>
 </div>
 
